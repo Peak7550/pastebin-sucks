@@ -1,1 +1,1585 @@
-return(function(e,...)local C="This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu";local k=e[(877435888)];local T=e[(738768070)];local i=e[((904143241-#("why does psu.dev attract so many ddosing retards wtf")))];local S=e[((78795914-#("psu == femboy hangout")))];local g=e['GhCJd0X7k'];local y=e[(726734324)];local Q=e[((#{48;964;943;150;(function(...)return;end)()}+752766724))];local s=e[((#{578;48;305;207;}+652875480))];local X=e[((799337238-#("I'm not ignoring you, my DMs are full. Can't DM me? Shoot me a email: mem@mem.rip (Business enquiries only)")))];local L=e[(187004133)];local I=e[(929756634)];local O=e[((311959458-#("who the fuck looked at synapse xen and said 'yeah this is good enough for release'")))];local v=e[((#{333;855;}+223122418))];local G=e[(442797921)];local d=e["Cwb6Y3RJ"];local E=e['o9k2o4E'];local n=e[(333455302)];local p=e[(621105293)];local U=e["wQy6LGOzJ"];local Z=e[((966694198-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot")))];local R=e[((#{}+974369492))];local H=e[((#{(function(...)return;end)()}+27665579))];local x=e[((567585632-#("psu premium chads winning (only joe biden supporters use the free version)")))];local l=e[(607897747)];local t=e[(838143079)];local f=e[(598993123)];local z=e[((#{722;(function(...)return 74,66,718,323,...;end)(724,424)}+779576397))];local j=e[(559895271)];local m=e[((857401174-#("psu premium chads winning (only joe biden supporters use the free version)")))];local c=e[((829011868-#("who the fuck looked at synapse xen and said 'yeah this is good enough for release'")))];local r=e[((750430602-#("psu 34567890fps, luraph 1fps, xen 0fps")))];local D=((getfenv)or(function(...)return(_ENV);end));local a,h,o=({}),(""),(D(n));local t=((o["\98"..e[p]..e['h12mw0']..e[L]..e[t]])or(o[""..e[c]..e[p]..e.h12mw0])or({}));local a=(((t)and(t["\98\120\111"..e[y]]))or(function(e,o)local n,t=n,r;while((e>r)and(o>r))do local c,a=e%l,o%l;if c~=a then t=t+n;end;e,o,n=(e-c)/l,(o-a)/l,n*l;end;if e<o then e=o;end;while e>r do local o=e%l;if o>r then t=t+n;end;e,n=(e-o)/l,n*l;end;return(t);end));local u=(l^g);local b=(u-n);local A,F,B;local u=(h[""..e[x].."\117\98"]);local w=(h["\98"..e.NRHLQMwsgf..e["h12mw0"].."\101"]);local S=(h[""..e["xnM3heScZo"].."\115"..e[S]..e[c]]);local J=(h["\99\104"..e[i].."\114"]);local Y=(o["\112\97\105\114\115"]);local M=(o["\109"..e[i].."\116"..e[E]][""..e[k].."\108\111"..e[m].."\114"]);local h=((o["\117"..e[f].."\112"..e[i].."\99"..e.jTlG68])or(o[""..e.h12mw0..e[i]..e[c].."\108\101"]["\117"..e[f]..e[v].."\97"..e.ZyTiQS3tfj.."\107"]));local v=(o[""..e[x].."\101"..e[s]..e[d]..e["ZyTiQS3tfj"].."\116"]);local S=(o["\116"..e[m]..e[f].."\117\109"..e[c]..e[d].."\114"]);local P=(o[""..e['h12mw0']..e["NRHLQMwsgf"].."\112\101"]);local P=((o["\109\97\116\104"][""..e[s].."\100\101\120\112"])or(function(o,e,...)return((o*l)^e);end));local j=(o["\114"..e[i]..e[j]..e[x]..e[d]..e["h12mw0"]]);local j=(o[""..e[x].."\101\116"..e[R].."\101"..e.h12mw0..e[i].."\116"..e[i].."\98"..e[s]..e[d]]);A=((t[""..e[s]..e[x]..e[E]..e[p]..e[k].."\116"])or(function(o,e,...)if(e<r)then return(F(o,-(e)));end;return((o*l^e)%l^g);end));local j=(t[""..e[c].."\111\114"])or(function(e,o,...)return(b-B(b-e,b-o));end);F=((t["\114\115"..e[E]..e[p].."\102"..e["h12mw0"]])or(function(o,e,...)if(e<r)then return(A(o,-(e)));end;return(M(o%l^g/l^e));end));B=(t[""..e[c].."\97"..e[f].."\100"])or(function(o,e,...)return(((o+e)-a(o,e))/l);end);local l=(t["\98"..e[f].."\111"..e.h12mw0])or(function(e,...)return(b-e);end);if((not(o["\98"..e[p]..e['h12mw0'].."\51\50"]))and(not(o[""..e[c]..e[p]..e.h12mw0])))then t[""..e[y]..e[x].."\104\105\102\116"]=F;t[""..e[c]..e[m]..e[y]]=j;t[""..e[c]..e[U]..e[m]..e[y]]=a;t["\98\97\110"..e.w8ifc]=B;t["\108"..e[x].."\104\105"..e[k]..e["h12mw0"]]=A;t[""..e[c]..e[f].."\111\116"]=l;end;local b=(((o["\116"..e[i]..e[c]..e[s].."\101"][""..e["ZyTiQS3tfj"]..e[y].."\101\97\116"..e[d]]))or((function(e,...)return({h({},r,e);});end)));local l=(o["\116\97"..e[c]..e[s]..e[d]]["\114\101\109"..e[m].."\118"..e[d]]);local l=(o["\116"..e[i].."\98"..e[s]..e[d]]["\105"..e[f].."\115\101\114\116"]);local d=(o[""..e.h12mw0.."\97"..e[c]..e[s]..e[d]][""..e["ZyTiQS3tfj"].."\111\110\99\97"..e['h12mw0']]);o[""..e[c]..e[p]..e['h12mw0']..e[L].."\50"]=t;local o=(Q);local l=(#C+z);local i,f=({}),({});for e=r,l-n do local o=J(e);i[e]=o;f[e]=o;f[o]=e;end;local s,l=(function(t)local a,c,e=w(t,n,X);if((a+c+e)~=Z)then o=o+O;l=l+H;end;t=u(t,G);local o,a,c=(""),(""),({});local e=n;local function r()local o=S(u(t,e,e),I);e=e+n;local n=S(u(t,e,e+o-n),I);e=e+o;return(n);end;o=f[r()];c[n]=o;while(e<#t)do local e=r();if i[e]then a=i[e];else a=o..u(o,n,n);end;i[l]=o..u(a,n,n);c[#c+n],o,l=a,a,l+n;end;return(d(c));end)("PSU|24N25p1010219214152762381L131e1922027927622T1n101T1T22N2151427622v161C182202111827621U1z12181R1H28321y27I1022D1H2191422n1V1X1C2762251y1b1H1P1921I21C1h1R1P1422H27Q27628B28D21S2121B27622B213161r171921d21j1d1P1G27h27A10234122981Q22H21A1327621y191p23f1Y1F27622c21d19191l1V1T1621321i1N141v1A16220216172942131H1L101l112212ae27621V2181T1N1y21E1s21W2131A276231121b1d1f1v1u1i1R1t22m2101927622p1K111R1s298101R22h28H29x1z1i101B21P2a72a92ab29G2762341J121d1021T27y29q21b15192142141m1R21x2aY27621z2Av21M2BV2AA2Ac28921Y21g1j27v2201w2c31022221116171q171W2cL2bx21716276237172972992222D627621w1X171g1r1q22M2cG1021z1Y1h2a62a82Cm2202BC27621T1y1n1t1V1n1l1H2aM2Ao1029y27L1j181721v2dw1022e14112d42AC28X1023b1v2a122h2e722v181B192B21122029227622r1H1j2b81R1M2a81j1n22n2f01021u21c2a81A1x2Cy2d01722M2de102f22Ev141r21U28922U1a29P27O2fN2F22a82e422021H1O29421m141O1p1D1L2a41121o21F151D1S1621R1Z1c2C21921821922129O2762321b1I22i21o1H27622U1F1r1N161F151a181f111h1h161n2b922N2fz1C111D121L22H2gz28J1Y1Q161m21321j112bL1122N2362C82H921y2Fc2371M2He2a8151b112HN22x1G2762iH26O25R1I2cu280217171A1527E191w21f1j1b29m2fn22821o1D1o1s2FA2E722a21f16131B29p21T2E72361N1K142bj1N27X27z2dO1Y1a2832He1B22C2ef21U2191b1t21r2151t2hE22021p2IG2fO122B21d2cK171O1n1d2gh152G22Gt29i1S1U22n2im1022P22A17112Cz172Kr2Gc1t2ip2Bo2dO21227V21i21I2h02kx191K22M2kN21V21i2Af1n2iX21J1Y27v1N1J2242fN2AQ13131T21T1U1z1E27622A21j1829k1H1Z21F1R1d2e0161121V21q1j27s121h2172171S1q2iA21n21i1D112ix27N1D2Jt2Bd2En1o1T1p1O132862aC2182hy102aY2c6102K31O1C2hB161D2212n422r2eV1L172mX1c21s28921t21e102i822H2fC22621N1o1f171N2iu1F2eW2CT2Cv22r2k72b321M2192E31s2hm2AC2ef22b28r27L1b2152AV2DG28i1022w2af141d1j2M32m52m72Dn21y21b2H42L32F82Fa2lm152cq2cS21b1227622n1o22y2EM22C21n10132JD2AF1022x172eC28i1221U2e721v217192Nz122aM28929y141c1U22M2N42242111e1F1S2l623B2K527621S2672672312EM23B1m1J1s21V2Ki2371a1n21V2eM2pq2Eq21n1m2F11h2G11H21M2181m2HU2Nw21M21l2Oq2m42Gd21V2dN22v2mC1q1b142F91m1722h2m92D82i82ME2Mg2mi2MK2mm1Q2mO22c2E721x2171F2is2aM2RL10236171R21D2R12R31N2r52r72Os21v2lt28021c1R2hA21P2121m181O21121F1t1D22G2FC22e21R1R2m61k1D21l2sl2FA2sF102Ov2Ip1Y2OW111721J2171115182212EF22X1q21821o2o42ML22128922E29C29E2202T42lw1b1a111N1X2l427m2992l828922821D1f2d122M21I1r2Df1x13171K2MV2tc2a12132161A171H1821a2Pr1L21d2iv2Ix2fl2fn2I7161h2s521V2fC2lW2ly2852IU2iw29M2Kn2311c1A1E21m2792B927D27F2by1022b21n1d2BD21T2fN2pj1t2F71622H2fn2321R2NU2NW22n2Hq102i71h1S2hl102MM1U122E11l2H52mp2Ef2202131v2ak1N21C2Io2eE2MR2Dy102HU102Q72jS2EM2h22H42202fN2202151f2H927G2ef22c2bq2BS213213181921U2FC29y1T1c2ds2bW2El27r102382cz29f2892Cx1d2172GR2KZ2NE1D162LY2nV2KE1V1J2X22D7102u72f92IX2Hp2h010235141g2YJ21m21c1121d2171h2a02a22a42ER2PH22p2u91t18181421s2kI2j71O22c2kn2262yp132mT1p2122181J1p1E2FA2Em2RX2W129129329i2We2852Hf21721k1i2AW2Dn2y02Y2122n92z52n422U2sc2R92n42W72U32l722M2E72I72dT2bX2eM22b21i142HO2fN2361J2x61b1221S2w52Lw1l1S2H82Hn2e521j2132B91j16122VM2Fp1928V2e72xj1C21i2O722d2LM2lh182lj2242Je2jG2Yi2rI22h2dn2x01N1m1Q27f1F1D21T2k42762n62N82ks1D21I21p2bl21021d311129n29P2pI2d0312927622121m21E2302N42392HU311Q2Kg1L2242dN2241Z1821G2EK2aD2PH2Rc2f32b21O22J29V27623b152B92QZ21O2h71p1i1d1e1j1m221313310312Y16313f1q182aI1l2vk27G2t42ne2pS2ew1G152hf29D1g1m2Q12Jm2212131Q1Y2Ts29F2w522B21E1O21g2CC101i311221J21j2jH31412RJ2x328D2J21s21X312j312l2na2A12JL27B2Bi2DA29819222311X2T52c81o2qX31521y2RY2S02212Qg2sM1T28w2Xp2382Vq1L2dV2Mr22s2kS2gn2mU2C92ez2ZN312R2gn1d21R28r28t31172PH22e2j82Hg2Lq1u2Fn22P2Z0311U2bM2T42dP1H21C1x1m1G162Tx152u92FL2PP2UT102e52an2pH22i21h2Zz1b1c31422N42Jv2Jx21Q21Q2JX21U2ki2Et1B2212FC315w2C221o2j12J32zi2XP22f21E192tG2E72J0314r1N1122M2N02761A2Um316331652B921S1v2kn2391r2WD1T2zQ1N2ZS2zu21W2KN22821R2CZ2D12d3310D2cN29H315p2NW1i222313I310S310U2JP2e4112t81R2Ta22H2EF22f2mk1721k1z2Aj2aM2Em22621B2Cs2FC31451U151121n2192hA2Hf22H2n4312y316S2pY2Q02EM2U7310T21X2892dg3112311V2pW2122eb1521t2T42nS2w22U021i314M2B32oB2MR22a21n2q51s21F21H28T22L2KZ31452g9141e2Oy2rG2fA2Qm2Hf2272Em2vd319U2i62R22ri2Sa2tM2C321t2eM22Q2c32Pf2892vO2Af2bM315522D2t221N213319f112Xm2dU2e722321A1s2R02ic2vM2372MX1M1p21v21R2bR2Vn21K1A2e417313D313F21G2j11l1i192e12zm27622421l1k21E2u22l62l82eS2Mc2hF1b313128928k2hT1M315n276317Q317I21h2oi2T42S42s62s831B221m21F1P1K2LL2y9313K1n122222EF2QS1J2C11N2Qx22N31bb21N2BH2Vx2fu31C61V31CW2kz22B21o1Q1r1A21j312V319N2Mc31dM1T1s10310a2PH21z21H2F92a32mp2T4312Y1N2hK2Bs2hF2gd2BA31722BQ1M21H31272vx2n429y2YR2A331DS29h312y1J142262ki22t1M1322l2fc316f2tC2TE182f71b21v2kz2371i2lj1C172Kx1l311u2AC2W5312Y2W92C32Wc2We1V2Wg2nA2rv2pH2TJ21821p2uP312o2N4314531fp31fr2wk2aZ1022A310z2bU318k2X4315j1T2I42fN21Z2L1182gQ2TH2MR23b1i2up1S27V1E1h22H2pw2xB1B23k26m276112Hy1d2cV1012132N12iH314i22k22031h831h92hy1221b2192K7314i22422g2762lO314I22522h2761414314I25u25I2761515314i25B24r2761616314i2153124102kU314i1Y21i2762yZ314I23223e2762a0314I23F233317W1A314I24I2522761b2gw1621N21B2761c1C314I23i22Y27631HB314i21s22c2761E1e314i22i2262761f1f314I24623M2762yJ314i21w2282762hd314i1B2WM314H1i314i26725N27631DK314i23Z24B2761k1K314I22g224276313Q314i22R23b2761M1M314I22m2222761N1n31ip31ir101O1o314i24223q2761p313B1622c21S2761q1q314I25824o2761r1r314i26525l2761s1S314I2yi27627n314i24K24W2761u2B7161s2Jm1V1V314I22L2212761W1w314I1m2p6101X1X314i1327L101Y1Y314I25X25d2761z2bQ1624J253276210210314i24N24Z276211211314i24523L276212212314I23T24D2762Xd314i21k2182762cB314I1H29H215215314I24a23Y276216216314i25Z25f2762ME314I23P241276218218314i22t235276219219314i22u23627621a21A314I2122NN1021b21B314i21u22e27621C21c314i112aj1021d21D314i25924p27621E21e314i22V23727621f21F314I22Y23i27621g21g2HY111821O21G31Hr1623h22x31hV13314i25024G31I031I21626425k31i631i8161v2zN31Id314i24F23V27631ij1622921X31iN18314I21Z22b31iS19314i29d31iX314I22b21z31J231J422j22731J831Ja1624Q25A31je1d314I23323f31JJ31jl161z21J31JP31JR1623622u31Jv1g314i24u25631K01h314I24D23T27631k6314I1k2ih31kb1625a24Q31KF31kH1622p23931KL31Cb1621G1w31KQ31ks1621921L31kw31kY1624s25427631L2314i23m24631L731L921021C31LD31lF1623w24831Lj31lL1621q21631lp31Lr1623V24F31lU1T314I23E23231LZ31M125724v27631m5314I22e21u31Ma31mc161A1U27631mH314i24323R27631mN314I23Q24231MS31Mu22622I31My31N0161X21h31N431n61624723n31Na31nc1622722J31nG213314I21F21331nl214314I23s24c27631nq314I1031Rw1031nw314I1e1Q31O1217314I21r21731O631O81621i1y31oC31oe1625t25H31oi31oK1622322n27631OP31kt31Kv1031ov314I23R24327631P1314i26625m31P631P81623722v31PC31Pe1622f21v31pi31pK1328331PO31pQ23922P31pU314i24Z24n31pz314i23N24731q4314I22w23g31Ic31iE31q931qd17314I2n731QI314I21p21531qN314i23a22q31QR1621m21A31Qv314i22N22331qZ314i24h25131r4314i23d23131R9314i21L21931RE314I23522T31RJ314i24423K31rO314I2Al31RT31K61624m24y31KA2F41625624U31s2314i21C21031S7314i24x24L31sC314i23123d31SH314I21321F31SM31l3161T2MR31l8314i25324j31sV314I25124H31t0314I172MA2WW31T623023c31tA314i21621Q31tf314i21721r31Tj31m631122qv1031mB314I22Q23A31tT31Mi1623u24e31TY31mO1624923x31u3314I25s25G31u7314i1R29w1031n5314i24V25731Uh314I22a21Y31UM314I26025O31ur314I24r25B31Uw31nr1622O23831Nv31nx1624w24k31v6314i25v25j31vB314i21j1Z31Vg314i23c23031vL314i23422S31vq31oq161W21G31OU31oW1622d21T31VZ31P21624b23Z31w4314i23Y24a31W9314i31uY1031PJ2iD1331pn31Pp12314i1g2Xp31Hw1621421O31wq1624y24m31wu1623B22r31WY314I24p25931X1314i23822o31X51624t25531X91621v22F31XD24G25031XH1624123p31xl313l2Ph31JF1621t22D31xt1621Y22A31xx1621E21231Y127u2G5316S31Rp16152YF31rU161U31gE31rY25w25c31Yi1622z23J31yM2M631Oz31kR314I22x23h31YU1622222m31Yy314I25424S31Sr314I23K24431z72hF312A31LK314I24L24x31t5314i24E23u31ZJ1625524T31zN2ac22K31ZR314i21B2PD31Zv31Tp22s2343200314i21H1X3205314I23L245320a1621X229320E1623G22w31Uc314I25224i320N2Vx225320r1624o258320v16311s320Z314I21a21m3214314i24023O3219162gA321D1622821W321H2Y231E91031oJ314i23o240321P314I25Y25E321u314i31Cd321Z314I23J22Z32241624C23s32281624823W31We2Te14322f2k731H91031Dk2pe31PV1621o21431pz327W1I1J2Te31Q5328231WY23n24426R26C31pz25X25x31rT1431ZU102Yz1x23g22l1g1O2yz1832851h1331IT1621121D31qr1424f31rS2bS2gw1425831S11031J91X22c2391G31GY31j9314I328A1031hB327w1E2GN31jk327W2hB329O2hK1d1c2Ev1231j9327w2Ih31j3314I21821K31qZ2Hl1C2a21A32Aa327W2852H91823n24a25o328I1031I126D26D328J328L31I11x142111G2jh31i1328v1331i7314i23X24931wy32AC2a431i11i141U2jm32b62h62Ud1031i7327w2a032aK2Ei2hy31I12ih1021h21H32a032BM32bl2WB31HA31HC327w2Ku32BT327w2Lo32bY32Bk2xp2762K732bM"),(#C-T);local function n(e,o,...)if(e==388823622)then return(((((o)-774873)-945145)-852970)-240783);elseif(e==398816039)then return(a(a((a(a(o,253563),45943))-320266,916677),304090));elseif(e==684453427)then return(((a((o)-133839,370036))-688909)-77529);elseif(e==936309128)then return((a(a((a(o,151315))-266396,41246),906521))-777829);elseif(e==837882703)then return((a(((o)-27324)-586337,957858))-390462);elseif(e==840999277)then return((((o)-688754)-604665)-661220);elseif(e==622175630)then return(((a((o)-939394,228712))-825280)-933904);else end;end;local t=e[(333455302)];local x=e["mGOhbtVl"];local p=e[((#{218;174;435;947;}+750430560))];local F=e[(273887198)];local n=e[(736424528)];local y=e[((204945897-#("i am not wally stop asking me for wally hub support please fuck off")))];local c=e[((#{600;139;141;617;(function(...)return 738;end)()}+607897742))];local g=e[(799337131)];local m=e[(961194051)];local function r()local e,t=w(s,l,l+c);e=a(e,o);o=e%n;t=a(t,o);o=t%n;l=l+c;return((t*n)+e);end;local function i()local e=a(w(s,l,l),o);o=e%n;l=(l+t);return(e);end;local function d(o,e,n)if(n)then local e=(o/c^(e-t))%c^((n-t)-(e-t)+t);return(e-(e%t));else local e=c^(e-t);return(((o%(e+e)>=e)and(t))or(p));end;end;local function c()local r,e,t,c=w(s,l,l+g);r=a(r,o);o=r%n;e=a(e,o);o=e%n;t=a(t,o);o=t%n;c=a(c,o);o=c%n;l=l+F;return((c*x)+(t*y)+(e*n)+r);end;local C=""..e[m];local function n(...)return({...}),v(C,...);end;local function G(...)local t=e[((750430579-#("concat was here")))];local G=e[(733586569)];local T=e[(44228166)];local D=e[((264651821-#("woooow u hooked an opcode, congratulations~ now suck my cock")))];local Z=e["M3brnHZ"];local Q=e[(173789608)];local b=e[(607897747)];local E=e[(849128207)];local M=e[(452537595)];local S=e[(952061661)];local B=e[(710512766)];local p=e["GhCJd0X7k"];local j=e[(999813812)];local v=e[(304329728)];local C=e[((#{184;849;}+374204164))];local F=e[((799337226-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot")))];local I=e[(569956568)];local m=e[((#{999;377;801;(function(...)return 185,918,609;end)()}+442797915))];local L=e[(670780678)];local n=e[((#{44;792;651;234;(function(...)return 281,485;end)()}+333455296))];local J=e[((599391289-#("Are you using AztupBrew, clvbrew, or IB2? Congratulations! You're deobfuscated!")))];local x=e[((736424650-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))];local O=e.Hz4pe;local y=e[((779914237-#("please suck my cock :pleading:")))];local X=e[((#{22;(function(...)return 647,230,...;end)(142,608)}+938610054))];local g=e[(273887198)];local function A(...)local k=({});local h=({});local e=({});for r=t,c(o)-n,n do local h=i(o);if(h==m)then local o=i(o);e[r]=(o~=t);elseif(h==S)then while(true)do local l=c(o);local o=c(o);local c=n;local a=(d(o,n,G)*(b^p))+l;local l=d(o,J,T);local o=((-n)^d(o,p));if(l==t)then if(a==t)then e[r]=(o*t);break;else l=n;c=t;end;elseif(l==Q)then e[r]=(a==t)and(o*(n/t))or(o*(t/t));break;end;e[r]=P(o,l-C)*(c+(a/(b^L)));break;end;elseif(h==M)then while(true)do local c=c(o);if(c==t)then e[r]=('');break;end;if(c>j)then local t,i=(''),(u(s,l,l+c-n));l=l+c;for e=n,#i,n do local e=a(w(u(i,e,e)),o);o=e%x;t=t..f[e];end;e[r]=t;else local n,t=(''),({w(s,l,l+c-n)});l=l+c;for l,e in Y(t)do local e=a(e,o);o=e%x;n=n..f[e];end;e[r]=n;end;break;end;elseif(h==v)then while(true)do local o=c(o);e[r]=u(s,l,l+o-n);l=l+o;break;end;else e[r]=nil end;end;local l=c(o);for e=t,l-n,n do h[e]=({});end;for A=t,l-n,n do local l=i(o);if(l~=t)then l=l-n;local x,a,w,u,p,s=t,t,t,t,t,t;local f=d(l,n,F);if(f==t)then u=(r(o));x=(i(o));s=(r(o));a=(r(o));elseif(f==b)then x=(i(o));s=h[(c(o))];a=(r(o));elseif(f==m)then u=(r(o));x=(i(o));s=(c(o));a=(r(o));p=({});for e=n,u,n do p[e]=({[t]=i(o),[n]=r(o)});end;elseif(f==y)then elseif(f==F)then u=(r(o));x=(i(o));s=h[(c(o))];a=(r(o));elseif(f==n)then x=(i(o));s=(c(o));a=(r(o));end;if(d(l,g,g)==n)then a=e[a];end;if(d(l,y,y)==n)then u=e[u];end;if(d(l,B,B)==n)then w=h[c(o)];else w=h[A+n];end;if(d(l,m,m)==n)then s=e[s];end;if(d(l,E,E)==n)then p=({});for e=n,i(),n do p[e]=c();end;end;local e=h[A];e["uPxOb"]=a;e[D]=p;e[-Z]=x;e[-I]=w;e["LkRFed2iTQ"]=u;e[-244201.79503512607]=s;end;end;local a=i(o);local l=r(o);for e=t,c(o)-n,n do k[e]=A();end;return({[O]=l;["oYxe"]=k;['n0dX0ldN']=a;["AjGjs23"]=e;[-X]=h;['bLhBz']=t;});end;return(A(...));end;local function x(e,o,s,...)local o=e['AjGjs23'];local t=e[-918778];local n=0;local w=e["oYxe"];local a=e['n0dX0ldN'];local c=e[489347];return(function(...)local m=-252880;local u={...};local o={};local e=({});local e=(779952311);local l=-244201.79503512607;local d=t[n];local n="uPxOb";local p=(v(C,...)-1);local f={};local t=-847224;local i=-(1);local r="LkRFed2iTQ";local e=59366;local e=(true);for e=0,p,1 do if(e>=a)then f[e-a]=u[e+1];else o[e]=u[e+1];end;end;local u=p-a+1;while(true)do local e=d;local a=e[m];d=e[t];if(a<=13)then if(a<=6)then if(a<=2)then if(a<=0)then local e=e[n];o[e]=o[e](o[e+1]);for e=e+1,c do o[e]=nil;end;elseif(a>1)then o[e[n]]=b(e[l]);elseif(a<2)then o[e[n]]=x(w[e[l]],(nil),s);end;elseif(a<=4)then if(a>3)then do return;end;elseif(a<4)then local e=e[n];do return h(o,e,i);end;end;elseif(a==5)then o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];e=e[t];elseif(a<=6)then o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];e=e[t];end;elseif(a<=9)then if(a<=7)then local e=e[n];i=e+u-1;for n=0,u do o[e+n]=f[n];end;for e=i+1,c do o[e]=nil;end;elseif(a>8)then local e=e[n];o[e](o[e+1]);for e=e,c do o[e]=nil;end;elseif(a<9)then local n=e[n];local l=e[l];local a=50*(e[r]-1);local t=o[n];local e=0;for l=n+1,l do t[a+e+1]=o[n+(l-n)];e=e+1;end;end;elseif(a<=11)then if(a==10)then o[e[n]]=b(e[l]);e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];e=e[t];elseif(a<=11)then o[e[n]]=o[e[l]][o[e[r]]];end;elseif(a>12)then elseif(a<13)then o[e[n]]=o[e[l]];e=e[t];o[e[n]]=e[l];e=e[t];local a=e[n];o[a](h(o,a+1,e[l]));for e=a+1,c do o[e]=nil;end;e=e[t];o[e[n]]=s[e[l]];e=e[t];o[e[n]]=e[l];e=e[t];local n=e[n];o[n](o[n+1]);for e=n,c do o[e]=nil;end;e=e[t];e=e[t];end;elseif(a<=20)then if(a<=16)then if(a<=14)then o[e[n]]=#o[e[l]];elseif(a>15)then o[e[n]]=o[e[l]][e[r]];elseif(a<16)then local n=e[n];o[n]=o[n](h(o,n+1,e[l]));for e=n+1,c do o[e]=nil;end;end;elseif(a<=18)then if(a==17)then e=e[t];local l=e[n];i=l+u-1;for e=0,u do o[l+e]=f[e];end;for e=i+1,c do o[e]=nil;end;e=e[t];local n=e[n];do return h(o,n,i);end;e=e[t];e=e[t];elseif(a<=18)then o[e[n]]=o[e[l]];end;elseif(a>19)then o[e[n]]=e[l];elseif(a<20)then o[e[n]]=b(256);end;elseif(a<=23)then if(a<=21)then local t=e[l];local l=o[t];for e=t+1,e[r]do l=l..o[e];end;o[e[n]]=l;elseif(a>22)then local n=e[n];o[n]=0+(o[n]);o[n+1]=0+(o[n+1]);o[n+2]=0+(o[n+2]);local t=o[n];local a=o[n+2];if(a>0)then if(t>o[n+1])then d=e[l];else o[n+3]=t;end;elseif(t<o[n+1])then d=e[l];else o[n+3]=t;end;elseif(a<23)then o[e[n]]=s[e[l]];end;elseif(a<=25)then if(a==24)then o[e[n]]=o[e[l]];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=s[e[l]];e=e[t];o[e[n]]=s[e[l]];e=e[t];o[e[n]]=o[e[l]][e[r]];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=#o[e[l]];e=e[t];local a=e[n];o[a]=o[a](h(o,a+1,e[l]));for e=a+1,c do o[e]=nil;end;e=e[t];o[e[n]]=o[e[l]][o[e[r]]];e=e[t];local a=e[n];o[a]=o[a](o[a+1]);for e=a+1,c do o[e]=nil;end;e=e[t];o[e[n]]=e[l];e=e[t];local i=e[l];local a=o[i];for e=i+1,e[r]do a=a..o[e];end;o[e[n]]=a;e=e[t];local n=e[n];o[n](h(o,n+1,e[l]));for e=n+1,c do o[e]=nil;end;e=e[t];e=e[t];elseif(a<=25)then local n=e[n];local a=o[n+2];local t=o[n]+a;o[n]=t;if(a>0)then if(t<=o[n+1])then d=e[l];o[n+3]=t;end;elseif(t>=o[n+1])then d=e[l];o[n+3]=t;end;end;elseif(a>26)then local n=e[n];o[n](h(o,n+1,e[l]));for e=n+1,c do o[e]=nil;end;elseif(a<27)then o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];o[e[n]]=e[l];e=e[t];e=e[t];end;end;end);end;return x(G(),{},D())(...);end)(({['Hz4pe']=(((#{862;582;90;910;(function(...)return 683,797,289,7,...;end)()}+489339)));[((929756713-#("Are you using AztupBrew, clvbrew, or IB2? Congratulations! You're deobfuscated!")))]=(((#{690;696;(function(...)return 613,442,118,226;end)()}+30)));[((#{798;545;}+187004131))]=((732766521));[((16046090-#("IIiIIiillIiiIIIiiii :troll:")))]=("\104");[(124036525)]=("\110");[((74515401-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot")))]=("\50");[(829011786)]=(((#{60;(function(...)return 246,565,383,663;end)()}+16938824)));["o9k2o4E"]=((16046063));[((#{(function(...)return 474,3,965,245,...;end)(578)}+125815753))]=("\105");[((621105398-#("PSU|161027525v21222B11273172751L275102731327523d27f22I27f21o26o24Y21J1827F1X27f1r27F23823a26w1... oh wait")))]=(((125815825-#("@everyone designs are done. luraph website coming.... eta JULY 2020"))));[(559895271)]=(((#{}+595008150)));GhCJd0X7k=(((92-#("woooow u hooked an opcode, congratulations~ now suck my cock"))));['ZyTiQS3tfj']=("\99");[((849128314-#("I'm not ignoring you, my DMs are full. Can't DM me? Shoot me a email: mem@mem.rip (Business enquiries only)")))]=(((192-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either."))));[(877435888)]=((866274641));['jTlG68']=("\107");['xnM3heScZo']=("\103");[((779576419-#("concat was here")))]=(((#{}+165)));['mGOhbtVl']=((16777216));[(732766521)]=("\51");[(938610059)]=((918778));[(273887198)]=((4));[(78795893)]=((32744376));[(952061661)]=(((#{(function(...)return 296;end)()}+15)));[((866274671-#("please suck my cock :pleading:")))]=("\102");[((#{711;82;45;342;(function(...)return;end)()}+750430560))]=((0));[(267469063)]=("\108");[((599391329-#("you dumped constants by printing the deserializer??? ladies and gentlemen stand clear we have a genius in the building.")))]=((21));[(374204166)]=(((#{714;385;329;538;}+1019)));[((868635130-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot")))]=("\115");[(569956568)]=(((847262-#("psu 34567890fps, luraph 1fps, xen 0fps"))));[(752766728)]=((106));[(434381752)]=("\97");[((635690299-#("psu premium chads winning (only joe biden supporters use the free version)")))]=("\120");[(595008150)]=("\119");[(223122420)]=((241630285));[((#{467;21;762;989;(function(...)return...;end)(8,325,752,507)}+264651753))]=(((59396-#("please suck my cock :pleading:"))));[(710512766)]=(((38-#("please suck my cock :pleading:"))));[((#{79;102;976;239;}+173789604))]=((2047));w8ifc=("\100");[(567585558)]=(((#{603;(function(...)return 64,276,723,394;end)()}+868635030)));[(241630285)]=("\112");[(184427112)]=("\35");[((#{(function(...)return 141,240,176,706,...;end)(376,831,289,821)}+16938821))]=("\98");[((#{875;659;136;}+799337128))]=((3));['Cwb6Y3RJ']=(((851506054-#("PSU|161027525v21222B11273172751L275102731327523d27f22I27f21o26o24Y21J1827F1X27f1r27F23823a26w1... oh wait"))));[((779914392-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either.")))]=(((21-#("concat was here"))));wQy6LGOzJ=(((635690410-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either."))));[(44228166)]=(((73-#("this isn't krnl support you bonehead moron"))));["h12mw0"]=("\116");[((670780745-#("@everyone designs are done. luraph website coming.... eta JULY 2020")))]=(((90-#("psu 34567890fps, luraph 1fps, xen 0fps"))));[((#{285;914;(function(...)return 8,403,668,163,...;end)(996)}+145669218))]=("\111");[(736424528)]=(((#{(function(...)return 93;end)()}+255)));['M3brnHZ']=((252880));["NRHLQMwsgf"]=("\121");[(430846673)]=("\114");[((#{866;393;961;593;(function(...)return 142,375;end)()}+452537589))]=(((167-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop..."))));[((999813997-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either.")))]=(((5042-#("this isn't krnl support you bonehead moron"))));[(188247196)]=("\109");[(857401100)]=(((#{125;669;660;77;(function(...)return 748,814,624,179;end)()}+145669217)));[(27665579)]=((146));[((966694163-#("woooow u hooked an opcode, congratulations~ now suck my cock")))]=(((269-#("psu == femboy hangout"))));[(442797921)]=(((#{160;(function(...)return 464;end)()}+3)));[((#{93;(function(...)return;end)()}+333455301))]=(((#{522;928;605;(function(...)return 705,108,799,60;end)()}-6)));[((#{284;389;(function(...)return...;end)()}+974369490))]=(((188247274-#("luraph is now down until further notice for an emergency major security update"))));[(304329728)]=(((43-#("psu == femboy hangout"))));[(738768070)]=((90));[((726734362-#("psu 34567890fps, luraph 1fps, xen 0fps")))]=(((#{13;}+430846672)));[((#{696;356;}+32744374))]=("\117");[(607897747)]=((2));[((#{91;}+204945829))]=(((65614-#("luraph is now down until further notice for an emergency major security update"))));[(733586569)]=(((#{341;841;149;}+17)));[(311959376)]=(((#{840;718;423;870;}+214)));[(838143079)]=(((#{564;13;279;(function(...)return 905,502,700,9;end)()}+74515299)));[(598993123)]=(((124036620-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot"))));[(652875484)]=(((267469168-#("PSU|161027525v21222B11273172751L275102731327523d27f22I27f21o26o24Y21J1827F1X27f1r27F23823a26w1... oh wait"))));[(851505949)]=("\101");[(904143189)]=(((#{}+434381752)));[(961194051)]=((184427112));}),...);
+--[[
+	code generated using luamin.js, Herrtt#3868
+--]]
+
+
+return (function(e, ...)
+	local I = "This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu";
+	local M = e[((#{
+		(function(...)
+			return 842, 51, 438, ...;
+		end)(838, 233, 394, 518)
+	} + 341666781))];
+	local D = e['fbXkbNg4X'];
+	local u = e[(173051674)];
+	local A = e[(843888408)];
+	local W = e[((512748638 - #("psu == femboy hangout")))];
+	local N = e.lh2XmY2U8;
+	local h = e[((#{
+		774;
+	} + 623624087))];
+	local G = e[((#{
+		573;
+		469;
+		(function(...)
+			return 650, 778, 378, 957;
+		end)()
+	} + 557381708))];
+	local P = e[(998479360)];
+	local j = e[((#{
+		115;
+		238;
+		263;
+		(function(...)
+			return;
+		end)()
+	} + 477391024))];
+	local T = e[(593535656)];
+	local x = e[(155562098)];
+	local w = e[((817165671 - #("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!")))];
+	local O = e[(43516742)];
+	local F = e.oxxc7p9;
+	local k = e[((#{
+		837;
+	} + 3431649))];
+	local m = e[((#{
+		707;
+	} + 401117220))];
+	local L = e["wu5BNJ"];
+	local c = e[((#{
+		961;
+		734;
+		24;
+		509;
+		(function(...)
+			return 205, ...;
+		end)(144, 299, 581)
+	} + 122809096))];
+	local b = e[(495549482)];
+	local R = e[((629465414 - #("concat was here")))];
+	local r = e[(485527300)];
+	local X = e.e8Pj7;
+	local E = e[((#{
+		(function(...)
+			return 331, 17, 332, 103;
+		end)()
+	} + 237083942))];
+	local p = e[(420794684)];
+	local i = e[((945018525 - #("IIiIIiillIiiIIIiiii :troll:")))];
+	local o = e[((551312051 - #("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!")))];
+	local f = e.J7eV7dBW9;
+	local S = e[(534033914)];
+	local a = e[((707175590 - #("still waiting for luci to fix the API :|")))];
+	local v = e[(492809406)];
+	local Z = e[(244670599)];
+	local U = ((getfenv) or (function(...)
+		return (_ENV);
+	end));
+	local n, d, l = ({}), (""), (U(o));
+	local t = ((l[""..e.d51kDBC4cL..e[h]..e[r].."\51"..e[P]]) or (l["\98\105\116"]) or ({}));
+	local n = (((t) and (t["\98"..e['sIZsZGhox5']..e[D]..e[i]])) or (function(e, l)
+		local n, o = o, f;
+		while ((e > f) and (l > f)) do
+			local c, t = e % a, l % a;
+			if c ~= t then
+				o = o + n;
+			end;
+			e, l, n = (e - c) / a, (l - t) / a, n * a;
+		end;
+		if e < l then
+			e = l;
+		end;
+		while e > f do
+			local l = e % a;
+			if l > f then
+				o = o + n;
+			end;
+			e, n = (e - l) / a, n * a;
+		end;
+		return (o);
+	end));
+	local s = (a ^ m);
+	local C = (s - o);
+	local y, B, g;
+	local s = (d["\115\117\98"]);
+	local z = (d["\99\104"..e[c]..e[i]]);
+	local p = (d[""..e[p].."\115\117"..e['d51kDBC4cL']]);
+	local p = (d[""..e["d51kDBC4cL"].."\121\116"..e[x]]);
+	local V = (l["\109"..e[c]..e[r]..e['RSn1oFd0B']]["\102\108\111\111"..e[i]]);
+	local Y = ((l[""..e[b]..e[c].."\116"..e['RSn1oFd0B']]["\108"..e[k].."\101\120"..e[E]]) or (function(l, e, ...)
+		return ((l * a) ^ e);
+	end));
+	local J = (l["\115\101"..e[u]..e[x].."\99"..e[r]]);
+	local d = (l[""..e[i]..e[c].."\119\115\101"..e[r]]);
+	local d = (l["\116\121\112\101"]);
+	local d = ((l[""..e[v].."\110\112"..e[c].."\99\107"]) or (l[""..e[r].."\97\98\108\101"][""..e[v].."\110"..e[E].."\97\99"..e[N]]));
+	local v = (l["\112\97\105\114\115"]);
+	local E = (l[""..e[r]..e[D].."\110\117"..e[b]..e["d51kDBC4cL"]..e[x]..e[i]]);
+	local N = (l["\115\101"..e[r].."\109"..e[x].."\116"..e[c]..e[r].."\97\98\108\101"]);
+	B = ((t[""..e[i].."\115\104"..e[h]..e[w]..e[r]]) or (function(l, e, ...)
+		if (e < f) then
+			return (y(l, -(e)));
+		end;
+		return (V(l % a ^ m / a ^ e));
+	end));
+	g = (t[""..e['d51kDBC4cL']..e[c].."\110"..e[k]]) or (function(l, e, ...)
+		return (((l + e) - n(l, e)) / a);
+	end);
+	local k = (t[""..e.d51kDBC4cL.."\111"..e[i]]) or (function(l, e, ...)
+		return (C - g(C - l, C - e));
+	end);
+	y = ((t[""..e[u].."\115"..e['RSn1oFd0B']..e[h].."\102\116"]) or (function(l, e, ...)
+		if (e < f) then
+			return (B(l, -(e)));
+		end;
+		return ((l * a ^ e) % a ^ m);
+	end));
+	local a = (t[""..e["d51kDBC4cL"]..e[A]..e[D]..e[r]]) or (function(e, ...)
+		return (C - e);
+	end);
+	if ((not(l[""..e['d51kDBC4cL']..e[h].."\116\51"..e[P]])) and (not(l["\98"..e[h].."\116"]))) then
+		t["\98"..e[c]..e[A].."\100"] = g;
+		t[""..e.d51kDBC4cL.."\110"..e[D].."\116"] = a;
+		t[""..e["d51kDBC4cL"]..e.sIZsZGhox5.."\111"..e[i]] = n;
+		t[""..e["d51kDBC4cL"].."\111\114"] = k;
+		t[""..e[u]..e[L].."\104"..e[h]..e[w].."\116"] = y;
+		t[""..e[i]..e[L].."\104"..e[h]..e[w].."\116"] = B;
+	end;
+	local C = (l["\116"..e[c].."\98"..e[u].."\101"]["\99"..e[D].."\110"..e[j].."\97"..e[r]]);
+	local u = (((l[""..e[r]..e[c].."\98"..e[u]..e[x]]["\99\114\101"..e[c].."\116\101"])) or ((function(e, ...)
+		return ({
+			d({}, f, e);
+		});
+	end)));
+	local a = (l["\116"..e[c]..e["d51kDBC4cL"].."\108\101"]["\105"..e[A].."\115"..e[x]..e[i].."\116"]);
+	local a = (l["\116"..e[c]..e.d51kDBC4cL.."\108\101"][""..e[i].."\101"..e[b]..e[D].."\118"..e[x]]);
+	l["\98"..e[h].."\116"..e[T].."\50"] = t;
+	local l = (R);
+	local a = (#I + X);
+	local r, D = ({}), ({});
+	for e = f, a - o do
+		local l = z(e);
+		r[e] = l;
+		D[e] = l;
+		D[l] = e;
+	end;
+	local h, a = (function(n)
+		local e, t, c = p(n, o, S);
+		if ((e + t + c) ~= M) then
+			l = l + Z;
+			a = a + G;
+		end;
+		n = s(n, O);
+		local l, t, c = (""), (""), ({});
+		local e = o;
+		local function i()
+			local l = E(s(n, e, e), F);
+			e = e + o;
+			local n = E(s(n, e, e + l - o), F);
+			e = e + l;
+			return (n);
+		end;
+		l = D[i()];
+		c[o] = l;
+		while (e < #n) do
+			local e = i();
+			if r[e] then
+				t = r[e];
+			else
+				t = l..s(l, o, o);
+			end;
+			r[a] = l..s(t, o, o);
+			c[#c + o], l, a = t, t, a + o;
+		end;
+		return (C(c));
+	end)("PSU|1I21h11111010121227827c27D141427827627c1I1i102772771021521527M27s101m1M27M27o10171727C27I1L1P1C27822b21O1q1r1a21j21I1n141V1a162341t182782212131t171l1f1D28j1H27g102321F1C182341U1b27821Z1y1h21J2171115181m1N1B23F1M1327822a21f1O23028w27822z121a1823i1J162782241Z101V1L112351O1d27822r27A1B1D21M2191n1L1s1d1228J1i2811022v181b19121B1123429X27822E21l131P1o2921G1527822D1h2191422N28P28m2aO121H1028w1c1U22U1727l1022b21K1A1L1H171D1E1J1m21G21o1D1L1i191t1V23C2AM27822321a1s21M2182AU28K2bE21U1Z1I1M21h21d29X22p28L27822021P1O1C1F11161d2351d1O28721M141o1P2c21t161121O21F151d1S1621r1Z1c121d19218219235151g2a92Ab2ad21I171O1N1d2df152bt23429J27822T29j22t2B527821T21e27U1H22L27R27C26O23M21e22D2eb102381L131E1923422c21T27822W1s1014132211L1022L2BY22h2211E1t1S1t1n1n1629f1h1C111Q1H1b1Q22i2252DL21u23021B1d181r1x21o111F1L1l226220162911m22K21u2911721T21w12171922121u1p1K238142BH1022U1F1r2fG1f1529U2Cx1H1h161N1R1t22v1S192cS2131v101L1n21C2171723F2CR1021Y21b15192142141m1r23H2e61022x171Q22P28H29629821328e28G28I2342852cA1y2Gh21z23421L1c161621x1i2131R1e29L21J18121r1H1Z21F1R1D1n2DA1123f1q1f27823b152H31h21M21o2gV1p1i2bW2BY2351k27o1a1v2A7278222211162HW171W2i328H28J2ik2a92aR1F2as2b52h11d1P1G1m22U2hi2371M2BH28q191K22u29Q2eP2Dn1l234121N2782361G1Q2Ja2eF1T1d22M2F51P2Ak2DB2DN2h71F1Y2I71021z21229121I21I2K92gh2Kc2942IM2io2Iq1w21f1J2Fo22p2Ke22B21M1j1V2aw29Y102282Co29G2hX2H627822F21i1D1721K1Z2F52A52AX1022r1H28f2e42Lx2bp21c2mA101b21521e1S23g2Eo2Lt1F1q1722U2eo22V2bG1J1422227R23k22e26x26h21d25222C2c92BF2H029g1O22R2Hz102a01821G2jR2I52ND2mU1h1q1B141J1N1m1722P2Eo22c2cK2Mh23F2eo21y21G1J2912932951022c21D1T1C2I228F2js2I62862m82ac162Io1F2Bv151v1j2E529K2Ao2aq2352gO28N2102Ie1221d2121J1F1T131H2NQ2AC1q2302N72k72od2I52eo22E21J2k11G2342md22s2cy2Dl1t1p2HM2342Eo2bm1d1V1m2lQ2962l5182Dp2dr2Dt1022D21229F21n2131u15112OC2I428J2LC102kI1T2IQ2H121721k1i2Ml2md22A21n1E1f1S21F21H1R1P22t2QH21U21C28F1a1X2Jm2jO22U2Nd2gr2gt1M1Q2Et28T23D2Ll21I141L22P2JJ102262171h131o2pp2122181j1P1E1n22V2HI2cJ122Fx1H2s523I2hI2O819191l1V2Da2eH27d26O24224i25X2ND2212oX1612215219132gH23D2N72282C12ak2Q22n72HV18172861223e2T21Q21821P171h1L2382RO22821r2jn2MQ2JQ2PD28j2oV1022E21f1d111a2jX21x2372d52d72c22h32h52h71021t1y102fH102Fd1b2302ds2CS2Cu2cw2cy1d21i21p101R2102co162hy1A2962mK21M2Ni28j2Ro21v2dX102LV21j1Y2911N1j2382Ke23B1M181t22p2MD22E14112uW2202191L2Pt1a29k2h42hi22u1j2iU2iw2dB2hh2Be2381r1s17161r2gH2362N72NL1j2At2Nb2Md22x2Ta21O2DV1122527r1G22t24g24R23X24Y22C2M721V21813131T21T2122QH2a02DL1D21R2Mf2qz1422p22921W2Ey2F02F22F42F62f82FA2Fc2Fe2fg2fI2Fk2fM2Fo2fq2FS2fu2FW2FY2g02G22g42G62g82gA2GC21T22h1J2Tt2tv192232gK2gM2Wr152O22O42sX2c11o1S1N1122u1327W102s4181c1L1t28a1A21c2P12p32p52P71D2p92nd2232i9192IB2Id2if234161J2782nL2172171s1q28F1521N2M0112Fo1T2kr2302jF27821321E2hI28o1Q1Y2pH2k22py2M82fN19141r23e2Hi2242112qU2FD2GH22627r2401H25V23P21324x2WQ2lR2sy2d22Yg22V2z92kl171R21d2181m2fH171N21M21l2VT2IV2IX23f2ke2lT2Ah21T2eI27C26W25j1M27r26825y27122b22x24W22C2JH2EC23322V22X22W21p1n22G1q22v2Q021X2211Q22b226111r22c22b162B62sF161H1122221n2J02iM2Ah2gw122Bt111Y21b1R112Nt2n722p2mp28L181423C2L22nw27l1b21p2uW2342tP2NL1S112a82ZL1u122c62hC2CZ2302eo2AW2dM1023d2Eo21w1X2sQ1D23D2M72321r1o2Ol2s12Hi22A21p1R2G331152n72361n1K141s2gT2of28N2132D7141e2L728F2nq22v2HT2372H123b2N722I21h121f1b1C2k42nd22R2OI2Ok2CY29O2l22251y1b1H1P1921I2X41P2x6314n1a1N23F2tp22B21E1O21G2Hp101i2sQ21J21J31492k32NT2mD31312MH213213181923e314N111h23A2hi2392Fh2NR2e32tf2KE22C21N101323D2hi31502SD172P51C23c2qH2m91J1i1r1r29f2np313Z2BE2nL1n1H2fc2gQ2n72O82kK1J2t423f2wZ2Dk2dm21O2YE310P2M72hv1t29F2uq2KE2381t29u23I2Ue2YM1z2S52Yp2Yr28B2132wT2wV2wx2Md310n2yf1n21h2mk2MM2B6102sO2Oy2CH2i01a2S52h02UC2ro22P22A172cY280318p2yq28Q1e311B27826O25r2162md23B2rU2B22P52AK31002Nl2H112236317P2JN2pj2Ke21V2172SD2SH27d21022S22d2Nd2302Es151n2w22W419314727B1022n1O22a2md22P2jF2W02W42UM2lK28x2b82bA23c2Tp2Ou1G31Af21m21c1121D2RR2sC2SE2da22p2Ju2rp21n313X310Z1X21I315V2Oi314D1022W281141D31132Vv2iy2n72wS2Fe1y318A2MT2G729E22U317u2hk151o2MA319u1Y2171f2Es192a52TP21T22P22Q2172vT2zA1N21X22y2112MQ1S1b1S23031aQ22a21J1b1A111N31aV2L92kB2rA2uS2hj312P1N314j317022V2QH2k72N914152aU312l2302Nd2312aT1D1F1v1u316W1t2K52bE316B317n2Kg224318w27821s22d2N72882YS2192Dq2EW2Xa2f12f32f52f71M2f92fB2Fd2fF316C2FJ2FL2fn2FP2fR122fT2FV2Fx2fz2G12G32G531be2G92gb2t421t226131B1j22C2Y722031De221192B828X21x217313w23C31912AM1H1S2911E1h22P1E1r278313p2Su1K2b229a2sd2132161a2tD1821A319h1L21d2lh2fo2Mr2n72Tr2H12H32WX2qH22e21r1r2DB1k1D21l2q72S12L22371I2v61C1728Q28s28U31362Gp31561q2FH21321J277312q22N2362hl317S2Ro21u2hf1a1531bq2lg2LI2hX2hT2PK1U22v2tp31Cs3139313B1b313D313f2FG1d2PA2An21z21h2nq2Sf31hC2M72362P21a1b1223c2v91M1j1S21z31de2682672162NV2p1181523d31Cr310X2NS31102Wf2a8313N318c2o8142bk2vS2lR313p171g1r1q22U31Aq2R31r181f21p2Q7181o21121F2kr22O2n722021O2f12V331F32Ro2391R31H92Ql1N2qN2qp318B27831Gg2FH3100237319t2W52kE2Rc1n2342nD22A2Ij31342tN2342kE22q2A8316K2N7313p2ns16317m23022D21s31Do2Xc31DR2xf31DV2Xi31Dy2xL31E12xO31e42XQ31E72Xt31Ea2Xw29e2xy31ef22G1u1q22l2Y72V828X3186228318w25C24y2Em312H2O721D31aM312b2QE2oE2qh28o2qB1121N21931IR2h122p2qH22631aS313Y2lG2Jx1223431b8319H31LQ2a52Ke310q2O42HI22F21q2MQ31bl182382EO2pM310Z1I31hL2lR2Vk31B32Yf23H2Eo2372P51M1P23f2ro2311C1a1e21m2142j41t2Er2ET2Ps318c22b21N31252uQ31fq21f31FS1t21S2QA2O622B2132W32gh21d2zY1G31dD27D27C1l2Wz21L1k21e2L8102kA2kc2Ke22f21E191823531782O91c21I2AF22924Z2Or2781w23Q21631CR312H31CV1931Is31nl2252M731en1F29u2eU31AQ2HK171A312o312Q1729a29C31nY2yk2KL2kn2kp2k82Kr2kT10313d151E1C1327a1e2wt2Yl2m92mB2j6310W310y311031122vU31152EO31N02dN1021x318w21S26726722D2m722R2FK2aj1L319j2782PS24G25X31Di2132Te2HB2A52Hi2Ti2zf2zN2Vw2Eo22T2KK2Zn22V3146314814315w31A827831mO31192EI24826n1p25m26d22c2tp31ca312J318i312m21J2ij1t29X31lR2HT21y191p21v2N731ET31BP2et2a5313J2ip2HW31Ap2il2L329821c1x1M1G1631cc152mp2MR31aq31732fK2mh2H12ix31D72WR2v4182V631kx27822621b2O431l531982bY1Q182te2g331BQ31mY2Jk2111d2172Dq2mD2u62iw1v2ag312d2352M72K7312c310T23f31aQ236310T310v31i6310Z21M21f2gl2382Md319G191J2W93174317127821U2191B1T21Q21q31TS23e2MD31TQ31Ts21r2151t2h031jQ31ck21u21a1p31oU2a11331lJ2EO2M92ar2X631pO21N2811R22p310r1031cs2ZD2Zf2zh2ZJ2tT2ZM2Zo2n729M1631Ei29k23D2Ht22121m21e310l27822p312X28T31UL31pO28928b31Nz2An31tj2f531T12Ht2321B1i1O23227N27y27K279319x27c1v31b411265265278122wU1231DL2G3315Q2rS24p24p31W22k31426P26p31wc1n1522222231WC1K1625225231wC1l318R31wC31sL22p22P31wC1r1926b26b31wc1O1a31Tu31WC1p1B26q26q31Wc1U1c2GZ31wC31vx24724731wC1S1e22G22G31WC1T1f26X26X31Wc121G1u1u31Wc2P522w22w31wC315Q22s22S31wC111J24o24O31Wc161K25725731WC28R26326331Wc141M26v26v31WC319r23f23f31wC1A1o31x131wc1B1p23g23G31Wc181Q24f24F31wC191R23A23A31wC1e1S23r23r31wc2p323523531wC2bK25p25p31wC2PV26h26h31Wc21E1w24Z24z31wC21F1X25L25l31wC21C1y316X31WC21D1z31dL31wC21i21023Z23Z31wc21J21121b21b31wc21G21222F22F31wC21H21325N25n31WC31MS23923931Wc21N21523e23e31WC21k21622J22J31wC21l2172wu31wc21q21826i26i31wC21r21922d22D31wC21o21A1y2U72791g21P21B21121131WC1y21c24e24E31wC1z21d25925931wc1W21E23B23B31wc1X21F21k21k31WC21221g26Z26Z31w231w421G21g31Pa111I2Rs2hO31WC1m1426l26l31WH1525b25B31wM1626826831WR1722922931Wu1825k25k31Wy1926126131X31A23o23O31x71b22T22T31Xc1c26g26g31xG1D26J26j31xK1E21T2Ex321T31xQ23y23y31xU1G24024031xz1H21N316I321T315Q22e22e31y71j31W7321T31yd26c26c31YH1L24y24Y31Yl1M22C22C31Yq1n1F2J1321t31yV26r26R31yY1p23p23P31Z31Q24v24v31z81r22M22m31zd1S22V22V31zi1T27Q31zM1u24n24N31ZQ31vX2A8321t31zv24424431zz1x21s31k8321t320525o25o32081z272272320C210212212320H2112zn320M21226M26m320r21325Q25Q320w21424g24g321021522322332152161W1W321A21722a22A321E21826y26Y321J21931aF321o21a23423431wc321V24w24w321Z21c31Ys322421D23C23c322921E317h322e21F26n26n322J21g23K23K322o31pA322q131112322u13225225322x1421R21R323225W25W3236226226323a227227323e24a24A323i24u24U323M25A25a323q26T26t323U241241323Y23t23T324221v21v31XP1f23v23V324A322Q324E21c21C31y31i26A26A324m25V25v31yC1k21p2uL321t28r2fF324x251251325126k26k31yU1O228228325926f26F325D22x22X325H25i25I325L21f21F325P25X25x325S2Zd325w24924931zU1w254254326326e26e32041y231231326B21M21m326f24s24S326J233233326m27D31xv320s253253326u21E2Ee321t32111e31rQ31xv321621u21U3276236236327A27I321t321k273273327h27f327L21B23H23h327p22I22i327s22L22l327w24Q24q327Z25s25S32832462463287123289316j328d1a31Ck31xV322Y25J25j32322482483236260260323a24X24X323e1O2D3321t31WZ25r25R323m218218323Q258258323u22R22R323y25t25T324221L21l329f24R24R324A24t24t324e26O26O329o1P1p324m25H25h329V21x21X324t23j23J324X322732511Q1q32a8237237325925C25C325D26s26S325H21w2x9321T31ZE1c2og31XV2P324c24C325s26w26w325W26426432aW31tl326323d23D32B3216216326b2L7326f255255326j21h21h326M1B2O632bI21321D21D326u23n23n326Y245245327223L23l32761x1X327a24h24H327e221221327h182BE31XV321V270270327P31VT321t322523M23M327W232232327Z24i24i32831z2a1279322P322r172vh31w327832dC315Q322y23x23X322O31Cu27631xx315q31wn32hE31w223l23R14324r2781q25r32AQ315Q31sL324O1p21K21532GJ181z24L23Q1131632wU32Hj31vo1a23W23w323q324k27831x831xd32Hr1032Hz21932F11c1z24124Y1I31vx32HM32h41f1e31pb2il313A1c32bR32Fu27M1d2dl121s1g2fk31hN2781K1k315Q31xd22q22q322O31cc32cw19152fk31nx32cW32gj1023n32hp32Ap27821225f26d2782CL2rL2F532Il21K21127f141z2712661131cU32I931XY1i31Wn1v2Ha32H415142if32JS32k232c132hz32K727f1z26427331G715271271322O32KM32jD32Jf21d21h322z26l1n25c25z32kY324832iH181l142HO31ol1532L632KN2h121W22b32lM2Sc1N23P24232Lm24k24k1n25p2621x21032km31b325q25f32KD318c152B632KY32kr21k32m332ma32KV32Kx31Wn26U26U323a320232Ih21k212318R1z21Y22T32M828032j421d21g1531611N25H25U32Kh2dB27o32hZ31Nc2IF32Mh1i31Ws32as32H42w232l4315Q31Ws32mD32Mq28032nB31Sl21Z21z322O2JN32NH1i31Sl32mN32K532i132gj1z25524a2mA1632lJ1731sM2Ns32LJ191632NU1832cD32mO32NY32i332KW316W1932IV31xv31X432ol1g31X832Ol1331nx32fu32J41H2NS23S23s2Ol1821d2dx22n22n1N24a23X32oC32cw32Of32i232Nb31WZ250250323m21y21Y323Q32pf323U31pv322O31Nx32F132OV2NS26926932P032P21723823832N232N431SL32pA32NX32pC32oI31wz25U25U323M32Je323Q32q8323u25g25G32PO2yo1c32PR17316132pV2dx23U23U1N21F2Uo2dX315T32P632p831sL32oO31WZ24M24M323M24j24j32Hn23V31fI21B2771q21E2152771H1K32N02131F141B1x32IN32NM1k21j32RM32IO1425U25Y32OW31ou21j31bp1c1I31xd323C32ih2a72Og21021032Jt32R721432Rd102121921A27732Oc32s332il1b31WZ22y22Y32qh27832ma32hw1832Qz1932R132R332R527923l32R721p2G0102TA31gk2bI2oa32R12141z315832RG32qM131c32rr32ro32rQ32iN32F1327B32rv2NS315T32Rz32S11c32sj2b232J627832S732S91821I32T62121o21r2771x32I132ma1D25O25d1131NX32SQ2B632u6182if32u932uB32ud1032Sr32Uc2Be2Ru2QC316332Ha1Q2oz21K2aS2kj23B22O21D32UW23I23I2YH2k81P1822U2gR1631br32US101O32uU32v132UX29g1S32VH32v332v5315931FI21A1F32vb32I72U432vF32uv32vI26525M32VL32V425x25e32vO22z22z32vr32vc32vU32VG32UW27a1n23U24D32W01N24y24l32vO22H22H32W732VT32UT32vW32wC22J22432Wg22322k32vO26d26D32W732oc24b24b27h1j31sl32X232IH32Sl1932Nw32Hz2142sc191Z22z22032Uo32Gj1s1L1923O23w1822t2pM1032As22L22K32sH31Wz24324332x831x432XB21k21732CW1a1d25325632rR32Nz22l23i2zL1a32f1321R27M32VD32fE32wO1032tx321D2322332771g2iP1932Tt1b32On32Hf32h432Vd32sr32oj32Y332xd2sc1Z23h22M1X32Z532XF24M23P32zA32xE2Fw151I31x8230230322O316332fU32Js32C127Z281"), (#I - W);
+	local function o(l, e, ...)
+		if (l == 101044838) then
+			return (n(n((n((e) - 435785, 172552)) - 146245, 162316), 9723));
+		elseif (l == 82381542) then
+			return (((((e) - 696822) - 167907) - 723118) - 882877);
+		elseif (l == 318550155) then
+			return ((n(n(n(e, 902984), 847426), 821206)) - 928712);
+		elseif (l == 975551695) then
+			return (n(((e) - 274648) - 340267, 556342));
+		elseif (l == 825492542) then
+			return (n(n((n((e) - 621411, 719333)) - 764093, 897566), 641177));
+		elseif (l == 247255381) then
+			return (n(n(n((e) - 491235, 373452), 945706), 80006));
+		elseif (l == 762672251) then
+			return (n(n(n(e, 824044), 672395), 679890));
+		elseif (l == 836390258) then
+			return (n((((n(e, 682336)) - 463226) - 72881) - 704163, 786556));
+		elseif (l == 951055129) then
+			return ((n(((e) - 427197) - 846015, 526718)) - 507667);
+		elseif (l == 633181477) then
+			return (((((e) - 565518) - 54743) - 556227) - 168629);
+		elseif (l == 682474675) then
+			return (n((((e) - 965096) - 27622) - 79068, 33001));
+		elseif (l == 854736474) then
+			return (n(((n(e, 669339)) - 667297) - 124939, 773170));
+		else
+		end;
+	end;
+	local r = e[(534033914)];
+	local o = e[(365907849)];
+	local C = e[(71092530)];
+	local x = e[(707175550)];
+	local B = e[(370261721)];
+	local y = e.fmxTm;
+	local c = e["J7eV7dBW9"];
+	local t = e[((#{
+		663;
+		538;
+		813;
+		(function(...)
+			return 353, 307, 671, ...;
+		end)(104, 432, 293, 982)
+	} + 551311948))];
+	local w = e[(695471511)];
+	local function i()
+		local e = n(p(h, a, a), l);
+		l = e % o;
+		a = (a + t);
+		return (e);
+	end;
+	local function f(n, e, l)
+		if (l) then
+			local e = (n / x ^ (e - t)) % x ^ ((l - t) - (e - t) + t);
+			return (e - (e % t));
+		else
+			local e = x ^ (e - t);
+			return (((n % (e + e) >= e) and (t)) or (c));
+		end;
+	end;
+	local function c()
+		local e, t, c, r = p(h, a, a + r);
+		e = n(e, l);
+		l = e % o;
+		t = n(t, l);
+		l = t % o;
+		c = n(c, l);
+		l = c % o;
+		r = n(r, l);
+		l = r % o;
+		a = a + w;
+		return ((r * B) + (c * y) + (t * o) + e);
+	end;
+	local function r()
+		local t, e = p(h, a, a + x);
+		t = n(t, l);
+		l = t % o;
+		e = n(e, l);
+		l = e % o;
+		a = a + x;
+		return ((e * o) + t);
+	end;
+	local A = ""..e[C];
+	local function m(...)
+		return ({
+			...
+		}), J(A, ...);
+	end;
+	local function L(...)
+		local L = e[(172672063)];
+		local E = e[((22381553 - #("why does psu.dev attract so many ddosing retards wtf")))];
+		local I = e[((487774850 - #("you dumped constants by printing the deserializer??? ladies and gentlemen stand clear we have a genius in the building.")))];
+		local P = e[(146107942)];
+		local C = e[((#{
+			905;
+			330;
+			699;
+			(function(...)
+				return 255;
+			end)()
+		} + 707175546))];
+		local o = e[(551311958)];
+		local U = e['ddh4Gzc'];
+		local x = e[(365907849)];
+		local A = e[(534033914)];
+		local Z = e[((755136916 - #("who the fuck looked at synapse xen and said 'yeah this is good enough for release'")))];
+		local F = e['ABJ0UD1Z'];
+		local B = e[(579183749)];
+		local X = e['gDryg'];
+		local S = e["SBCkU2gQ34"];
+		local m = e[((751262207 - #("why the fuck would we sell a deobfuscator for a product we created.....")))];
+		local b = e[(401117221)];
+		local J = e['h3mJwm3'];
+		local G = e["R0yAeBu"];
+		local w = e[(43516742)];
+		local k = e[((695471696 - #("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either.")))];
+		local R = e.LDG0e8FEg;
+		local O = e['l6yE2POu8'];
+		local j = e[((880459129 - #("why does psu.dev attract so many ddosing retards wtf")))];
+		local e = e['J7eV7dBW9'];
+		local function g(...)
+			local y = ({});
+			local t = ({});
+			local u = ({});
+			local z = r(l);
+			for e = e, c(l) - o, o do
+				y[e] = g();
+			end;
+			local g = i(l);
+			for r = e, c(l) - o, o do
+				local d = i(l);
+				if (d == j) then
+					local l = i(l);
+					t[r] = (l ~= e);
+				elseif (d == R) then
+					while (true) do
+						local e = c(l);
+						t[r] = s(h, a, a + e - o);
+						a = a + e;
+						break;
+					end;
+				elseif (d == E) then
+					while (true) do
+						local c = c(l);
+						if (c == e) then
+							t[r] = ('');
+							break;
+						end;
+						if (c > S) then
+							local e, i = (''), (s(h, a, a + c - o));
+							a = a + c;
+							for o = o, #i, o do
+								local n = n(p(s(i, o, o)), l);
+								l = n % x;
+								e = e..D[n];
+							end;
+							t[r] = e;
+						else
+							local e, o = (''), ({
+								p(h, a, a + c - o)
+							});
+							a = a + c;
+							for a, o in v(o) do
+								local n = n(o, l);
+								l = n % x;
+								e = e..D[n];
+							end;
+							t[r] = e
+						end;
+						break;
+					end;
+				elseif (d == I) then
+					while (true) do
+						local a = c(l);
+						local n = c(l);
+						local c = o;
+						local a = (f(n, o, X) * (C ^ b)) + a;
+						local l = f(n, E, G);
+						local n = ((-o) ^ f(n, b));
+						if (l == e) then
+							if (a == e) then
+								t[r] = (n * e);
+								break;
+							else
+								l = o;
+								c = e;
+							end;
+						elseif (l == J) then
+							t[r] = (a == e) and (n * (o / e)) or (n * (e / e));
+							break;
+						end;
+						t[r] = Y(n, l - U) * (c + (a / (C ^ L)));
+						break;
+					end;
+				else
+					t[r] = nil
+				end;
+			end;
+			local n = c(l);
+			for e = e, n - o, o do
+				u[e] = ({});
+			end;
+			for y = e, n - o, o do
+				local n = i(l);
+				if (n ~= e) then
+					n = n - o;
+					local D, s, p, h, d, a = e, e, e, e, e, e;
+					local x = f(n, o, A);
+					if (x == C) then
+						d = (r(l));
+						a = u[(c(l))];
+						h = (i(l));
+					elseif (x == e) then
+						d = (r(l));
+						a = (r(l));
+						h = (i(l));
+						s = (r(l));
+					elseif (x == A) then
+						d = (r(l));
+						a = u[(c(l))];
+						h = (i(l));
+						s = (r(l));
+					elseif (x == B) then
+					elseif (x == w) then
+						d = (r(l));
+						a = (c(l));
+						h = (i(l));
+						s = (r(l));
+						D = ({});
+						for n = o, s, o do
+							D[n] = ({
+								[e] = i(l),
+								[o] = r(l)
+							});
+						end;
+					elseif (x == o) then
+						d = (r(l));
+						a = (c(l));
+						h = (i(l));
+					end;
+					if (f(n, B, B) == o) then
+						s = t[s];
+					end;
+					if (f(n, w, w) == o) then
+						a = t[a];
+					end;
+					if (f(n, m, m) == o) then
+						p = u[c(l)];
+					else
+						p = u[y + o];
+					end;
+					if (f(n, k, k) == o) then
+						d = t[d];
+					end;
+					if (f(n, F, F) == o) then
+						D = ({});
+						for e = o, i(), o do
+							D[e] = c();
+						end;
+					end;
+					local e = u[y];
+					e[O] = d;
+					e['hRyaZqHUzP'] = s;
+					e['jUCC3FcG'] = p;
+					e["a0A"] = a;
+					e["u6730C"] = D;
+					e["DuoX"] = h;
+				end;
+			end;
+			return ({
+				[894096.905497951] = t;
+				["UOrrG75ekc"] = g;
+				[-972462.6052120167] = e;
+				[-P] = u;
+				["LAnP"] = z;
+				[-Z] = y;
+			});
+		end;
+		return (g(...));
+	end;
+	local function D(e, l, i, ...)
+		local C = e[-54698];
+		local l = e[894096.905497951];
+		local l = 0;
+		local c = e["UOrrG75ekc"];
+		local r = e["LAnP"];
+		local e = e[-819018];
+		return (function(...)
+			local o = 'jUCC3FcG';
+			local s = e[l];
+			local n = 544802;
+			local w = "DuoX";
+			local p = {
+				...
+			};
+			local a = "a0A";
+			local e = 'u6730C';
+			local h = (J(A, ...) - 1);
+			local e = (true);
+			local l = {};
+			local e = ({});
+			local x = {};
+			local e = (388167063);
+			local t = 'hRyaZqHUzP';
+			local f = -(1);
+			for e = 0, h, 1 do
+				if (e >= c) then
+					x[e - c] = p[e + 1];
+				else
+					l[e] = p[e + 1];
+				end;
+			end;
+			local h = h - c + 1;
+			while (true) do
+				local e = s;
+				local c = e[w];
+				s = e[o];
+				if (c <= 21) then
+					if (c <= 10) then
+						if (c <= 4) then
+							if (c <= 1) then
+								if (c == 0) then
+									l[e[n]] = l[e[a]];
+									e = e[o];
+									l[e[n]] = e[a];
+									e = e[o];
+									l[e[n]] = i[e[a]];
+									e = e[o];
+									l[e[n]] = i[e[a]];
+									e = e[o];
+									l[e[n]] = l[e[a]][e[t]];
+									e = e[o];
+									l[e[n]] = e[a];
+									e = e[o];
+									l[e[n]] = #l[e[a]];
+									e = e[o];
+									local c = e[n];
+									l[c] = l[c](d(l, c + 1, e[a]));
+									for e = c + 1, r do
+										l[e] = nil;
+									end;
+									e = e[o];
+									l[e[n]] = l[e[a]][l[e[t]]];
+									e = e[o];
+									local c = e[n];
+									l[c] = l[c](l[c + 1]);
+									for e = c + 1, r do
+										l[e] = nil;
+									end;
+									e = e[o];
+									l[e[n]] = e[a];
+									e = e[o];
+									local i = e[a];
+									local c = l[i];
+									for e = i + 1, e[t] do
+										c = c..l[e];
+									end;
+									l[e[n]] = c;
+									e = e[o];
+									local n = e[n];
+									l[n](d(l, n + 1, e[a]));
+									for e = n + 1, r do
+										l[e] = nil;
+									end;
+									e = e[o];
+									e = e[o];
+								elseif (c <= 1) then
+									i[e[a]] = l[e[n]];
+								end;
+							elseif (c <= 2) then
+								l[e[n]] = e[a];
+							elseif (c == 3) then
+								local n = e[n];
+								local a = e[a];
+								local t = 50 * (e[t] - 1);
+								local o = l[n];
+								local e = 0;
+								for a = n + 1, a do
+									o[t + e + 1] = l[n + (a - n)];
+									e = e + 1;
+								end;
+							elseif (c <= 4) then
+								l[e[n]] = l[e[a]] - e[t];
+							end;
+						elseif (c <= 7) then
+							if (c <= 5) then
+								local e = e[n];
+								l[e](l[e + 1]);
+								for e = e, r do
+									l[e] = nil;
+								end;
+							elseif (c == 6) then
+								l[e[n]] = l[e[a]];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								local c = e[n];
+								l[c](d(l, c + 1, e[a]));
+								for e = c + 1, r do
+									l[e] = nil;
+								end;
+								e = e[o];
+								l[e[n]] = i[e[a]];
+								e = e[o];
+								l[e[n]] = l[e[a]][e[t]];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								local c = e[n];
+								l[c] = l[c](l[c + 1]);
+								for e = c + 1, r do
+									l[e] = nil;
+								end;
+								e = e[o];
+								l[e[n]][e[a]] = e[t];
+								e = e[o];
+								l[e[n]] = i[e[a]];
+								e = e[o];
+								l[e[n]][e[a]] = l[e[t]];
+								e = e[o];
+								l[e[n]][e[a]] = e[t];
+								e = e[o];
+								l[e[n]][e[a]] = e[t];
+								e = e[o];
+								l[e[n]][e[a]] = e[t];
+								e = e[o];
+								local f = e[n];
+								local c = l[e[a]];
+								l[f + 1] = c;
+								l[f] = c[e[t]];
+								e = e[o];
+								local c = e[n];
+								l[c](l[c + 1]);
+								for e = c, r do
+									l[e] = nil;
+								end;
+								e = e[o];
+								l[e[n]] = i[e[a]];
+								e = e[o];
+								l[e[n]] = l[e[a]][e[t]];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = i[e[a]];
+								e = e[o];
+								l[e[n]] = l[e[a]][e[t]];
+								e = e[o];
+								local c = e[n];
+								l[c] = l[c](d(l, c + 1, e[a]));
+								for e = c + 1, r do
+									l[e] = nil;
+								end;
+								e = e[o];
+								l[e[n]][e[a]] = e[t];
+								e = e[o];
+								l[e[n]] = i[e[a]];
+								e = e[o];
+								l[e[n]] = l[e[a]][e[t]];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								local c = e[n];
+								l[c] = l[c](l[c + 1]);
+								for e = c + 1, r do
+									l[e] = nil;
+								end;
+								e = e[o];
+								l[e[n]] = i[e[a]];
+								e = e[o];
+								l[e[n]] = l[e[a]][e[t]];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								local c = e[n];
+								l[c] = l[c](l[c + 1]);
+								for e = c + 1, r do
+									l[e] = nil;
+								end;
+								e = e[o];
+								l[e[n]] = i[e[a]];
+								e = e[o];
+								l[e[n]] = l[e[a]][e[t]];
+								e = e[o];
+								l[e[n]][e[a]] = l[e[t]];
+								e = e[o];
+								l[e[n]][e[a]] = l[e[t]];
+								e = e[o];
+								l[e[n]] = i[e[a]];
+								e = e[o];
+								l[e[n]] = l[e[a]][e[t]];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								local c = e[n];
+								l[c] = l[c](d(l, c + 1, e[a]));
+								for e = c + 1, r do
+									l[e] = nil;
+								end;
+								e = e[o];
+								l[e[n]][e[a]] = l[e[t]];
+								e = e[o];
+								l[e[n]][e[a]] = e[t];
+								e = e[o];
+								l[e[n]] = i[e[a]];
+								e = e[o];
+								l[e[n]] = l[e[a]][e[t]];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								local c = e[n];
+								l[c] = l[c](d(l, c + 1, e[a]));
+								for e = c + 1, r do
+									l[e] = nil;
+								end;
+								e = e[o];
+								l[e[n]][e[a]] = l[e[t]];
+								e = e[o];
+								e = e[o];
+							elseif (c <= 7) then
+								do
+									return;
+								end;
+							end;
+						elseif (c <= 8) then
+							local n = e[n];
+							l[n](d(l, n + 1, e[a]));
+							for e = n + 1, r do
+								l[e] = nil;
+							end;
+						elseif (c == 9) then
+							local a = e[a];
+							local o = l[a];
+							for e = a + 1, e[t] do
+								o = o..l[e];
+							end;
+							l[e[n]] = o;
+						elseif (c <= 10) then
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							e = e[o];
+						end;
+					elseif (c <= 15) then
+						if (c <= 12) then
+							if (c == 11) then
+								local n = e[n];
+								l[n] = l[n](d(l, n + 1, e[a]));
+								for e = n + 1, r do
+									l[e] = nil;
+								end;
+							elseif (c <= 12) then
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								l[e[n]] = e[a];
+								e = e[o];
+								e = e[o];
+							end;
+						elseif (c <= 13) then
+							local o = e[n];
+							local n = l[e[a]];
+							l[o + 1] = n;
+							l[o] = n[e[t]];
+						elseif (c == 14) then
+							l[e[n]] = #l[e[a]];
+						elseif (c <= 15) then
+							l[e[n]][e[a]] = l[e[t]];
+						end;
+					elseif (c <= 18) then
+						if (c <= 16) then
+							s = e[a];
+						elseif (c == 17) then
+							local c = e[n];
+							l[c](l[c + 1]);
+							for e = c, r do
+								l[e] = nil;
+							end;
+							e = e[o];
+							l[e[n]] = i[e[a]];
+							e = e[o];
+							l[e[n]] = l[e[a]][e[t]];
+							e = e[o];
+							l[e[n]] = l[e[a]][e[t]];
+							e = e[o];
+							local c = e[n];
+							local i = l[e[a]];
+							l[c + 1] = i;
+							l[c] = i[e[t]];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							local n = e[n];
+							l[n](d(l, n + 1, e[a]));
+							for e = n + 1, r do
+								l[e] = nil;
+							end;
+							e = e[o];
+							e = e[o];
+						elseif (c <= 18) then
+						end;
+					elseif (c <= 19) then
+						local e = e[n];
+						l[e] = l[e](d(l, e + 1, f));
+						for e = e + 1, f do
+							l[e] = nil;
+						end;
+					elseif (c > 20) then
+						l[e[n]] = u(e[a]);
+					elseif (c < 21) then
+						local e = e[n];
+						l[e] = l[e](l[e + 1]);
+						for e = e + 1, r do
+							l[e] = nil;
+						end;
+					end;
+				elseif (c <= 32) then
+					if (c <= 26) then
+						if (c <= 23) then
+							if (c == 22) then
+								local e = e[n];
+								do
+									return d(l, e, f);
+								end;
+							elseif (c <= 23) then
+								l[e[n]][e[a]] = e[t];
+							end;
+						elseif (c <= 24) then
+							l[e[n]] = u(256);
+						elseif (c > 25) then
+							local n = e[n];
+							l[n] = 0 + (l[n]);
+							l[n + 1] = 0 + (l[n + 1]);
+							l[n + 2] = 0 + (l[n + 2]);
+							local o = l[n];
+							local t = l[n + 2];
+							if (t > 0) then
+								if (o > l[n + 1]) then
+									s = e[a];
+								else
+									l[n + 3] = o;
+								end;
+							elseif (o < l[n + 1]) then
+								s = e[a];
+							else
+								l[n + 3] = o;
+							end;
+						elseif (c < 26) then
+							l[e[n]] = i[e[a]];
+						end;
+					elseif (c <= 29) then
+						if (c <= 27) then
+							local d = e[n];
+							local c = l[e[a]];
+							l[d + 1] = c;
+							l[d] = c[e[t]];
+							e = e[o];
+							local c = e[n];
+							l[c](l[c + 1]);
+							for e = c, r do
+								l[e] = nil;
+							end;
+							e = e[o];
+							l[e[n]] = u(256);
+							e = e[o];
+							l[e[n]] = u(256);
+							e = e[o];
+							l[e[n]][e[a]] = e[t];
+							e = e[o];
+							l[e[n]][e[a]] = e[t];
+							e = e[o];
+							l[e[n]][e[a]] = l[e[t]];
+							e = e[o];
+							l[e[n]] = u(256);
+							e = e[o];
+							l[e[n]][e[a]] = e[t];
+							e = e[o];
+							l[e[n]][e[a]] = e[t];
+							e = e[o];
+							l[e[n]][e[a]] = l[e[t]];
+							e = e[o];
+							l[e[n]] = u(256);
+							e = e[o];
+							l[e[n]][e[a]] = e[t];
+							e = e[o];
+							l[e[n]][e[a]] = e[t];
+							e = e[o];
+							l[e[n]][e[a]] = l[e[t]];
+							e = e[o];
+							l[e[n]] = u(256);
+							e = e[o];
+							l[e[n]][e[a]] = e[t];
+							e = e[o];
+							l[e[n]][e[a]] = e[t];
+							e = e[o];
+							l[e[n]][e[a]] = l[e[t]];
+							e = e[o];
+							l[e[n]] = u(256);
+							e = e[o];
+							l[e[n]][e[a]] = e[t];
+							e = e[o];
+							l[e[n]][e[a]] = e[t];
+							e = e[o];
+							l[e[n]][e[a]] = l[e[t]];
+							e = e[o];
+							i[e[a]] = l[e[n]];
+							e = e[o];
+							l[e[n]] = i[e[a]];
+							e = e[o];
+							l[e[n]] = i[e[a]];
+							e = e[o];
+							l[e[n]] = l[e[a]][e[t]];
+							e = e[o];
+							l[e[n]] = l[e[a]][l[e[t]]];
+							e = e[o];
+							e = e[o];
+						elseif (c > 28) then
+							l[e[n]] = u(e[a]);
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							l[e[n]] = e[a];
+							e = e[o];
+							e = e[o];
+						elseif (c < 29) then
+							l[e[n]] = l[e[a]][l[e[t]]];
+						end;
+					elseif (c <= 30) then
+						l[e[n]] = l[e[a]];
+					elseif (c == 31) then
+						l[e[n]] = D(C[e[a]], (nil), i);
+					elseif (c <= 32) then
+						local r = e[n];
+						local c = l[e[a]];
+						l[r + 1] = c;
+						l[r] = c[e[t]];
+						e = e[o];
+						l[e[n]] = l[e[a]][e[t]];
+						e = e[o];
+						local t = e[n];
+						local c, a = m(l[t](d(l, t + 1, e[a])));
+						f = a + t - 1;
+						local a = 0;
+						for e = t, f do
+							a = a + 1;
+							l[e] = c[a];
+						end;
+						e = e[o];
+						local a = e[n];
+						l[a] = l[a](d(l, a + 1, f));
+						for e = a + 1, f do
+							l[e] = nil;
+						end;
+						e = e[o];
+						l[e[n]]();
+						e = e[o];
+						e = e[o];
+					end;
+				elseif (c <= 38) then
+					if (c <= 35) then
+						if (c <= 33) then
+							e = e[o];
+							local a = e[n];
+							f = a + h - 1;
+							for e = 0, h do
+								l[a + e] = x[e];
+							end;
+							for e = f + 1, r do
+								l[e] = nil;
+							end;
+							e = e[o];
+							local n = e[n];
+							do
+								return d(l, n, f);
+							end;
+							e = e[o];
+							e = e[o];
+						elseif (c == 34) then
+							local n = e[n];
+							local o, e = m(l[n](d(l, n + 1, e[a])));
+							f = e + n - 1;
+							local e = 0;
+							for n = n, f do
+								e = e + 1;
+								l[n] = o[e];
+							end;
+						elseif (c <= 35) then
+							l[e[n]] = l[e[a]][e[t]];
+						end;
+					elseif (c <= 36) then
+						l[e[n]]();
+					elseif (c > 37) then
+						local n = e[n];
+						local t = l[n + 2];
+						local o = l[n] + t;
+						l[n] = o;
+						if (t > 0) then
+							if (o <= l[n + 1]) then
+								s = e[a];
+								l[n + 3] = o;
+							end;
+						elseif (o >= l[n + 1]) then
+							s = e[a];
+							l[n + 3] = o;
+						end;
+					elseif (c < 38) then
+						l[e[n]][e[a]] = e[t];
+						e = e[o];
+						l[e[n]] = i[e[a]];
+						e = e[o];
+						l[e[n]] = l[e[a]][e[t]];
+						e = e[o];
+						l[e[n]] = e[a];
+						e = e[o];
+						l[e[n]] = e[a];
+						e = e[o];
+						l[e[n]] = e[a];
+						e = e[o];
+						l[e[n]] = e[a];
+						e = e[o];
+						local c = e[n];
+						l[c] = l[c](d(l, c + 1, e[a]));
+						for e = c + 1, r do
+							l[e] = nil;
+						end;
+						e = e[o];
+						l[e[n]][e[a]] = l[e[t]];
+						e = e[o];
+						l[e[n]][e[a]] = e[t];
+						e = e[o];
+						l[e[n]][e[a]] = e[t];
+						e = e[o];
+						l[e[n]] = e[a];
+						e = e[o];
+						l[e[n]] = e[a];
+						e = e[o];
+						l[e[n]] = e[a];
+						e = e[o];
+						e = e[o];
+					end;
+				elseif (c <= 41) then
+					if (c <= 39) then
+						l[e[n]] = l[e[a]][e[t]];
+						e = e[o];
+						l[e[n]] = l[e[a]] + e[t];
+						e = e[o];
+						l[e[n]][e[a]] = l[e[t]];
+						e = e[o];
+						l[e[n]] = i[e[a]];
+						e = e[o];
+						l[e[n]]();
+						e = e[o];
+						e = e[o];
+					elseif (c == 40) then
+						l[e[n]] = e[a] - l[e[t]];
+					elseif (c <= 41) then
+						local e = e[n];
+						f = e + h - 1;
+						for n = 0, h do
+							l[e + n] = x[n];
+						end;
+						for e = f + 1, r do
+							l[e] = nil;
+						end;
+					end;
+				elseif (c <= 42) then
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					l[e[n]] = e[a];
+					e = e[o];
+					e = e[o];
+				elseif (c > 43) then
+					l[e[n]] = l[e[a]] + e[t];
+				elseif (c < 44) then
+					if (not(l[e[n]])) then
+						s = e[a];
+					end;
+				end;
+			end;
+		end);
+	end;
+	return D(L(), {}, U())(...);
+end)(({[((#{
+		472;
+	} + 272821377))] = ("\111");[((#{
+		260;
+		765;
+		(function(...)
+			return;
+		end)()
+	} + 173051672))] = ((723935069));[(487774731)] = (((108 - #("@everyone designs are done. luraph website coming.... eta JULY 2020"))));[(998479360)] = ((309361857));[((71092623 - #("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!")))] = ((412257722));['l6yE2POu8'] = ((544802));['e8Pj7'] = ((165));[((#{
+		520;
+		211;
+		19;
+		(function(...)
+			return ...;
+		end)()
+	} + 401117218))] = ((32));[(534033914)] = ((3));["lh2XmY2U8"] = ((882483202));[((29968154 - #("@everyone designs are done. luraph website coming.... eta JULY 2020")))] = ("\112");[((420794791 - #("I'm not ignoring you, my DMs are full. Can't DM me? Shoot me a email: mem@mem.rip (Business enquiries only)")))] = ((834187527));[((22381568 - #("i am not wally stop asking me for wally hub support please fuck off")))] = (((#{
+		213;
+		(function(...)
+			return 708, 247, ...;
+		end)(201)
+	} + 17)));[(834187527)] = ("\103");[(337376116)] = ("\109");[(43516742)] = (((79 - #("psu premium chads winning (only joe biden supporters use the free version)"))));['fmxTm'] = (((#{} + 65536)));[((551312040 - #("who the fuck looked at synapse xen and said 'yeah this is good enough for release'")))] = ((1));[(843888408)] = ((222626456));[((#{} + 146107942))] = ((819018));[(763719106)] = ("\51");[(237083946)] = ((29968087));[((#{
+		452;
+	} + 755136833))] = (((#{
+		331;
+	} + 54697)));[(370261721)] = (((16777283 - #("i am not wally stop asking me for wally hub support please fuck off"))));[(485527300)] = ((505982861));[((172672084 - #("psu == femboy hangout")))] = ((52));[(737680533)] = ("\105");["ABJ0UD1Z"] = (((#{
+		(function(...)
+			return 745, ...;
+		end)()
+	} + 6)));["SBCkU2gQ34"] = ((5e3));[((#{
+		(function(...)
+			return 4, 800, 175;
+		end)()
+	} + 512748614))] = ((90));[((557381785 - #("why the fuck would we sell a deobfuscator for a product we created.....")))] = ((224));[(707175550)] = (((#{} + 2)));[((#{} + 412257722))] = ("\35");[((155562125 - #("IIiIIiillIiiIIIiiii :troll:")))] = (((672884485 - #("why the fuck would we sell a deobfuscator for a product we created....."))));['wu5BNJ'] = ((224319050));[(773395251)] = ("\102");['sIZsZGhox5'] = ("\120");[((#{
+		470;
+		494;
+		595;
+		693;
+		(function(...)
+			return 371, 737, 49, 759, ...;
+		end)(300, 242)
+	} + 644416735))] = ("\100");[((#{
+		704;
+		(function(...)
+			return 786, 324, ...;
+		end)()
+	} + 579183746))] = ((6));[((#{
+		867;
+		884;
+	} + 817165576))] = (((773395346 - #("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot"))));['oxxc7p9'] = ((36));[((#{
+		(function(...)
+			return 236, 154, 329, 925;
+		end)()
+	} + 751262132))] = ((8));['d51kDBC4cL'] = ("\98");[(880459077)] = (((#{
+		412;
+		853;
+		209;
+	} + 42)));[(945018498)] = ((825143965));["ddh4Gzc"] = ((1023));[((#{
+		341;
+		229;
+		963;
+		930;
+	} + 825143961))] = ("\114");[(224319050)] = ("\115");[((#{
+		272;
+		592;
+	} + 593535654))] = ((763719106));[(505982861)] = ("\116");LDG0e8FEg = (((91 - #("luraph is now down until further notice for an emergency major security update"))));[(867747582)] = ("\97");[((#{
+		931;
+		220;
+		(function(...)
+			return 639, 235, 831;
+		end)()
+	} + 629465394))] = (((224 - #("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either."))));[((#{} + 695471511))] = (((#{
+		705;
+		455;
+		(function(...)
+			return 928, 647, 345, ...;
+		end)()
+	} - 1)));["fbXkbNg4X"] = (((#{
+		658;
+	} + 272821377)));R0yAeBu = ((31));["h3mJwm3"] = (((#{
+		832;
+	} + 2046)));[(222626456)] = ("\110");[((723935129 - #("woooow u hooked an opcode, congratulations~ now suck my cock")))] = ("\108");["RSn1oFd0B"] = ("\104");[(164128248)] = ("\117");[((244670721 - #("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))] = (((244 - #("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!"))));['gDryg'] = (((62 - #("this isn't krnl support you bonehead moron"))));[(672884414)] = ("\101");[(882483202)] = ("\107");[((263420006 - #("still waiting for luci to fix the API :|")))] = ("\99");[(495549482)] = (((#{
+		710;
+		588;
+		486;
+		440;
+		(function(...)
+			return 892, 487, 571, 179;
+		end)()
+	} + 337376108)));J7eV7dBW9 = ((0));[(341666788)] = ((248));[((#{
+		(function(...)
+			return 65, 545, 226;
+		end)()
+	} + 122809101))] = (((#{
+		530;
+		681;
+		509;
+		(function(...)
+			return ...;
+		end)(869, 789)
+	} + 867747577)));[((#{
+		732;
+		251;
+		9;
+		508;
+		(function(...)
+			return 998, 3, 248, 756, ...;
+		end)(771, 493, 554)
+	} + 365907838))] = (((315 - #("LuraphDeobfuscator.zip (oh god DMCA incoming everyone hide)"))));[((#{} + 492809406))] = (((#{
+		(function(...)
+			return 314, 520, 173, ...;
+		end)()
+	} + 164128245)));[(309361857)] = ("\50");[(3431650)] = (((644416806 - #("guys someone play Among Us with memcorrupt he is so lonely :("))));[((#{
+		32;
+		(function(...)
+			return 30, 720, 378, 157;
+		end)()
+	} + 623624083))] = ((737680533));[((#{} + 477391027))] = (((#{
+		9;
+		474;
+		36;
+		(function(...)
+			return ...;
+		end)(125, 325)
+	} + 263419961)));}), ...);
